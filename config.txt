@@ -1,0 +1,6 @@
+﻿token=NTg5ODY1MDE2MjU0MTM2MzMw.XQZ4ow.BZMKIcAI9-OIlQEH3CYzvk_P5WI
+owner=ا549259804728623104 
+prefix= E
+game= Ehelp
+stayinchannel=true
+songinstatus=true 
